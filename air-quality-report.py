@@ -30,7 +30,7 @@ else:
     print("invalid option")
 
     
-#Replace "xxxxxxxxxxxxxxxxxx" with your API-ID
+#Replace "xxxxxxxxxxxxxxxxxx" with your API-KEY
 url3="&APPID=XXXXXXXXXXXXXXXXXXXXXXXXXXX"
 url = url1 + lat + url2 + lon + url3
 data = requests.get(url)
