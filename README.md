@@ -1,4 +1,4 @@
-# Air-Quality-Report
+# Air-Quality-App
 Get your API-ID from the below link and replace "xxxxxxxxxxxxxx" in the souce code with your API-KEY.
 http://airpollutionapi.com/api
 
